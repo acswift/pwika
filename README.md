@@ -1,7 +1,7 @@
 
 <!-- vim: set foldmethod=marker fmr=###,--- :-->
 
-*Updated 19 December 2025 · Toulouse*
+*Updated 16 November 2026 · Toulouse*
 
 ![Pwika: SVG-based websites built in Adobe Illustrator][logo]
 
