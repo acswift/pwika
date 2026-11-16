@@ -60,12 +60,12 @@ In order of use:
 ---
 ### The Sync Application
 
-Pwika Sync is a macOS-only application that acts as a hub for your Pwika project.
+Pwika Sync is a macOS application that acts as a hub for your Pwika project.
 
-[sync](https://github.com/pwikapanel/sync)
+[pwika-sync](https://github.com/acswift/pwika-sync)
 
 ---
 ### Extras
 
-- [Illustrator Templates](https://github.com/pwikapanel/templates-cool-extras)
-- [Illustrator Scripts](https://github.com/pwikapanel/scripts-presets)
+- [Illustrator Templates](https://github.com/acswift/templates-cool-extras)
+- [Illustrator Scripts](https://github.com/acswift/scripts-presets)
