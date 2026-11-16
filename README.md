@@ -50,12 +50,12 @@ This repo contains everything you need to build Pwika from scratch.
 
 In order of use:
 
-1. [server-config](https://github.com/pwikapanel/server-config): to configure a new Debian server  
-   [server-update](https://github.com/pwikapanel/server-update): to update a Pwika server to a newer version
-2. [sites](https://github.com/pwikapanel/sites): default sites for a new installation
-3. [cloud](https://github.com/pwikapanel/cloud): the Pwika server application, including Pwika Cloud
-4. [animation](https://github.com/pwikapanel/animation): the javascript animation component of Pwika Cloud
-5. [site-admin](https://github.com/pwikapanel/site-admin): to install/delete/modify Pwika sites
+1. [pwika-server](https://github.com/acswift/pwika-server): to configure a new Debian server  
+   [pwika-update](https://github.com/acswift/pwika-update): to update a Pwika server to a newer version
+2. [pwika-sites](https://github.com/acswift/pwika-sites): default sites for a new installation
+3. [pwika-cloud](https://github.com/acswift/pwika-cloud): the Pwika server application, including Pwika Cloud
+4. [pwika-animation](https://github.com/acswift/pwika-animation): the javascript animation component of Pwika Cloud
+5. [pwika-admin](https://github.com/acswift/pwika-admin): to install/delete/modify Pwika sites
 
 ---
 ### The Sync Application
