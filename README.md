@@ -41,7 +41,7 @@ There are basically three elements to Pwika:
 ---
 ### 1. The Illustrator Panel
 
-[illustrator-panel repository](https://github.com/pwikapanel/illustrator-panel)
+[illustrator-panel repository](https://github.com/acswift/pwika-panel)
 
 This repo contains everything you need to build Pwika from scratch.
 
